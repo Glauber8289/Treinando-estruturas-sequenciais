@@ -1,5 +1,5 @@
 # Treinando-estruturas-sequenciais
-Com o intuito de treinar os conceitos aprendidos em estruturas sequenciais no paradigma estrutural fiz quatro exercicios propostos pelo professor Nelio alves no Curso de Java na Udemy:
+Com o intuito de treinar os conceitos aprendidos em estruturas sequenciais no paradigma estrutural resolvi quatro exercicios propostos pelo professor Nelio alves no Curso de Java na Udemy:
 # 1º Exercicio Soma:
 ![R1](https://user-images.githubusercontent.com/107453279/199879309-ba159f7a-555b-4dc7-95fc-3dd983056739.png)
 # 2º Exercicio calculo do Area
